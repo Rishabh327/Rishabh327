@@ -308,7 +308,7 @@ class Rishabh327:
   <img alt="github-snake" src="https://raw.githubusercontent.com/Rishabh327/Rishabh327/output/github-snake-dark.svg" />
 </picture>
 
-> ⚠️ *Snake animation requires a GitHub Action — see workflow file below*
+
 
 </div>
 
